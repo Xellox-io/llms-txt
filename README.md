@@ -37,6 +37,12 @@ Yokis ensures long-term offline protection for your 12- or 24-word recovery phra
 * [Support](https://www.xellox.io/support/)
 * [About Us](https://www.xellox.io/about-us/)
 
+* ## 💡 Community & Bitcoin Ecosystem Projects
+
+Xellox is actively contributing to open-source Bitcoin infrastructure. Support our latest development:
+
+👉 [Geyser Project: Clavis Bitcoin Hardware Wallet](https://geyser.fund/project/clavis)
+
 **About Us**: Based in Helsinki, Finland, Xellox was founded to close the gap between hardcore Bitcoin security and intuitive usability. Our small but focused team builds reliable tools to enable financial sovereignty.
 
 ## 📜 Policies
