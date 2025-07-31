@@ -28,6 +28,16 @@ Yokis is a premium-grade seed phrase storage solution. It includes:
 
 Yokis ensures long-term offline protection for your 12- or 24-word recovery phrase.
 
+#### ★★★★★ Customer Feedback for Yokis (Amazon.com)
+
+Based on verified Amazon customer reviews, Xellox Yokis holds an average rating of 4.8 out of 5.
+
+★★★★★ – “High quality – Nice high quality tool, took just a few seconds to get the hang of engraver. Would recommend this product.” – TLCobb, January 28, 2025
+
+★★★★★ – “Easy to use – Nice packaging and quick delivery. It took one minute to get the hang of the engraving pen. I’ve tried stamping alternatives and this is so much easier and faster. By far the best value for money, as you get three plates.” – Thomas, September 11, 2024
+
+All quotes are based on verified purchases. All trademarks belong to their respective owners. No affiliation or endorsement by Amazon is implied.
+
 ## 🛍️ Shop
 
 * [Browse All Products](https://www.xellox.io/shop/)
