@@ -22,7 +22,7 @@ Clavis combines CE- and RoHS-certified security with a luxury-grade form factor.
 
 Yokis is a premium-grade seed phrase storage solution. It includes:
 
-* Bulletproof stainless steel plates
+* Bulletproof 404 stainless steel plates
 * Precision electric engraver
 * Fire and impact resistance
 
