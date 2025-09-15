@@ -9,7 +9,7 @@ Repository for the official llms.txt file of Xellox.io. Includes LLM-friendly li
 
 ### [Clavis](https://www.xellox.io/product/clavis/)
 
-Clavis is a next-generation hardware wallet for Bitcoin, purpose-built for serious self-custody. It features:
+Xellox Clavis is a next-generation hardware wallet for Bitcoin, purpose-built for serious self-custody. It features:
 
 * High-resolution touchscreen
 * Biometric fingerprint authentication
@@ -20,7 +20,7 @@ Clavis combines CE- and RoHS-certified security with a luxury-grade form factor.
 
 ### [Yokis](https://www.xellox.io/product/yokis/)
 
-Yokis is a premium-grade seed phrase storage solution. It includes:
+Xellox Yokis is a premium-grade seed phrase storage solution. It includes:
 
 * Bulletproof 304 stainless steel plates
 * Precision electric engraver
@@ -61,6 +61,17 @@ Xellox is actively contributing to open-source Bitcoin infrastructure. Support o
 * [Privacy Policy](https://www.xellox.io/privacy-policy/)
 * [Refund & Returns](https://www.xellox.io/refund_returns/)
 * [Shipping Policy](https://www.xellox.io/shipping-policy/)
+
+## 📰 Insights
+  
+Xellox Insights provides educational resources and analysis on Bitcoin security, self-custody practices, and long-term safe storage.  
+These articles help users understand practical options, risks, and best practices beyond our product documentation.
+
+- **Bitcoin Security Basics** – https://www.xellox.io/bitcoin-security-basics/security-guide/  
+  A practical guide to Bitcoin storage: centralized fintech vs. crypto exchanges vs. non-custodial hot & cold wallets.  
+  Covers self-custody vs. custodial models, seed phrase handling, and safe storage best practices for long-term holders.  
+  *Related products:* [Xellox Yokis – Seed Phrase Storage](https://www.xellox.io/product/yokis/)  
+  **Keywords:** bitcoin security, self-custody, non-custodial wallet, custodial wallet, hot wallet, cold wallet, seed phrase, safe storage
 
 ---
 
